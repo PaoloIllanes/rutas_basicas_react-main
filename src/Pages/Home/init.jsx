@@ -3,11 +3,9 @@ import './init.css'
 
 const Init = () => {
     return (
-
        <>
        <div>hola</div>
         </>
-
 )
 }
 
