@@ -5,7 +5,7 @@ import {Link} from "react-router-dom";
 const Init = () => {
     return (
 
-        <html>
+       <>
         <head>
             <title>Inicio</title>
             <link rel="stylesheet" href="init.css"/>
@@ -22,7 +22,7 @@ const Init = () => {
                 </Link>
             </div>
         </body>
-        </html>
+        </>
 
 )
 }
